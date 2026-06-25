@@ -1,4 +1,4 @@
-name = "moov-tunnel"
+name = "moov-v"
 main = "worker.js"
 compatibility_date = "2026-06-25"
 
